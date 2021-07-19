@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-EDA of car dataset and price prediction model built using linear regression.
+This project consists of an exploratory analysis of a large, used car dataset. It also contains a simple prediction model built using linear regression.
